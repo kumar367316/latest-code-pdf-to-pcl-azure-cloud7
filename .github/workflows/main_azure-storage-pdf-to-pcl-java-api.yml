@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'azure-storage-pdf-to-pcl-java-api'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A7BD5CCAC9F648B78768563AEFD83EB2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_55CA4413BFE7465E8241DFBB36FD72F3 }}
           package: '*.jar'
