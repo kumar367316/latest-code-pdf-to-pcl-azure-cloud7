@@ -1,0 +1,6 @@
+com\htc\pclconverter\PmaPclAzureStorageApplication.class
+com\htc\pclconverter\config\AzureStorageBlobClientConfig.class
+com\htc\pclconverter\service\AzureBlobService.class
+com\htc\pclconverter\controller\AzureBlobFileController.class
+com\htc\pclconverter\exception\ApplicationException.class
+com\htc\pclconverter\scheduler\PdfToPclAzureScheduler.class
